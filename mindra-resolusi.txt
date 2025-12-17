@@ -1,0 +1,4 @@
+M INDRA RESOLUSI 2026
+1. menguasai github dan git
+2. menguasai reac js
+3. buat portfolio berbentuk web
