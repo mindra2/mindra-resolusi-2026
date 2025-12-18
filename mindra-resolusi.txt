@@ -1,4 +1,2 @@
 M INDRA RESOLUSI 2026
-1. buat portfolio berbentuk web
-2. Menjual website
-3. Membuat Youtube
+1. body lost conten in youtube
